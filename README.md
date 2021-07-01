@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Limak78Olehad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Salut, je suis @Limak78Olehad
+- 👀 Je suis intéressé par la Technologie
+- 🌱 J'apprends actuellement le Développent Web
+- 💞️ Je cherche à collaborer à l'apprentissage
+- 📫Voici mon email :  Olehadlimak78@gmail.com
 
 <!---
 Limak78Olehad/Limak78Olehad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
