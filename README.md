@@ -2,7 +2,7 @@
 - 👀 Je suis intéressé par la Technologie
 - 🌱 J'utilise le Développent Web/ 
 - et la programmation de python
-- 💞️ Je cherche à collaborer avec vous
+- 💞️ J'envisage de collaborer avec d'autres createurs
 - 📫Voici mon email :  Olehadlimak78@gmail.com
 
 <!---
