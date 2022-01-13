@@ -1,7 +1,8 @@
-- 👋 Salut, je suis @Limak78Olehad
+- 👋 Salut, je suis Kamil-Dahelo
 - 👀 Je suis intéressé par la Technologie
-- 🌱 J'apprends actuellement le Développent Web
-- 💞️ Je cherche à collaborer à l'apprentissage
+- 🌱 J'utilise le Développent Web/ 
+- et la programmation de python
+- 💞️ Je cherche à collaborer avec vous
 - 📫Voici mon email :  Olehadlimak78@gmail.com
 
 <!---
